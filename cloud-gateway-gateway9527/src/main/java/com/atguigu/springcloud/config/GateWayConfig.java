@@ -31,7 +31,7 @@ public class GateWayConfig {
     /**
      * 同上
      * @param routeLocatorBuilder
-     * @return
+     * @return routes.build
      */
 
     @Bean
